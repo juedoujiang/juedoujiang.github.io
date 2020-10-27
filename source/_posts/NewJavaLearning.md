@@ -148,3 +148,18 @@ tags: Java
   * `s.replace(c1,c2)`
   * `s.toLowerCase()`
   * `s.toUpperCase()`
+
+
+
+# Week7
+
+## 函数(初)定义
+
+* 函数的定义
+
+  <center>
+      <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/img/7.1函数(初)定义.png">
+      <center>7.1 函数(初)定义</center>
+  </center>
+
+  
