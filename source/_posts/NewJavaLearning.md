@@ -24,7 +24,7 @@ tags: Java
 
 ###  (int)x
 
-
+<!-- more -->
 
 # Week3
 
