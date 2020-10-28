@@ -17,7 +17,8 @@ tags: Java
 ## 函数重载
 
 <center>
-    <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/img/函数重载.png">
+    <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/OOP_JavaPic/1.1函数重载.png">
     <center>1 函数重载</center>
 </center>
+
 

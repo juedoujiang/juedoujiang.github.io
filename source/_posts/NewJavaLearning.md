@@ -56,16 +56,16 @@ tags: Java
 
 * 数组变量是管理者
 
-
   <center>
-      <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/img/普通变量和数组变量1.png">
+      <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/NewJavaLearning/5.1普通变量和数组变量1.png">
       <center>5.1 Java数组变量原理</center>
   </center>
 
   <center>
-      <img src="https://raw.githubusercontent.com/juedoujiang/PictureBed/main/img/普通变量和数组变量2.png">
+      <img src="https://raw.githubusercontent.com/juedoujiang/PictureBed/main/NewJavaLearning/5.2普通变量和数组变量2.png">
       <center>5.2 Java数组变量原理2</center>
   </center>
+
 
 
 ## 数组变量
@@ -158,8 +158,9 @@ tags: Java
 * 函数的定义
 
   <center>
-      <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/img/7.1函数(初)定义.png">
+      <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/NewJavaLearning/7.1函数(初)定义.png">
       <center>7.1 函数(初)定义</center>
   </center>
 
+  
   
