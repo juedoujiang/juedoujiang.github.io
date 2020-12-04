@@ -5,8 +5,8 @@
 # Site
 title: Jiang'Blog
 subtitle: 'A Learning Room'
-description: ''
-keywords: 'keywords'
+description: 'Java/Python/Notes'
+keywords: 'Java,Python,DeepLearning,Hexo,Git'
 author: Juedoujiang
 language: zh-CN
 timezone: ''
@@ -18,8 +18,8 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -99,6 +99,22 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
+# RSS
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
