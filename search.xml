@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>KerasSetup</title>
+    <url>/2020/11/03/KerasSetup/</url>
+    <content><![CDATA[<h2 id="1-安装Keras对应版本的Tensorflow"><a href="#1-安装Keras对应版本的Tensorflow" class="headerlink" title="1.安装Keras对应版本的Tensorflow"></a>1.安装Keras对应版本的Tensorflow</h2><a id="more"></a>
+
+<h3 id="i-找到python、keras和tensorflow的对应关系"><a href="#i-找到python、keras和tensorflow的对应关系" class="headerlink" title="i 找到python、keras和tensorflow的对应关系"></a>i 找到python、keras和tensorflow的对应关系</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">https:&#x2F;&#x2F;docs.floydhub.com&#x2F;guides&#x2F;environments&#x2F;</span><br></pre></td></tr></table></figure>
+
+<h3 id="ii-安装对应版本的tensorflow"><a href="#ii-安装对应版本的tensorflow" class="headerlink" title="ii 安装对应版本的tensorflow"></a>ii 安装对应版本的tensorflow</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">pip install tensorflow&#x3D;&#x3D;1.14.0 -i https:&#x2F;&#x2F;pypi.tuna.tsinghua.edu.cn&#x2F;simple</span><br></pre></td></tr></table></figure>
+
+<h2 id="2-安装正确版本的Keras"><a href="#2-安装正确版本的Keras" class="headerlink" title="2.安装正确版本的Keras"></a>2.安装正确版本的Keras</h2><h3 id="i-安装Keras"><a href="#i-安装Keras" class="headerlink" title="i 安装Keras"></a>i 安装Keras</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">pip install keras&#x3D;&#x3D;2.2.5 -i https:&#x2F;&#x2F;pypi.tuna.tsinghua.edu.cn&#x2F;simple</span><br></pre></td></tr></table></figure>
+
+<h2 id="3-相关机器学习包的安装"><a href="#3-相关机器学习包的安装" class="headerlink" title="3.相关机器学习包的安装"></a>3.相关机器学习包的安装</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">pip install pandas</span><br><span class="line">pip install scipy</span><br><span class="line">pip install matplotlib</span><br><span class="line">pip install scikit-learn</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>EnvSetup</category>
+      </categories>
+      <tags>
+        <tag>python Keras</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>New Java Learning</title>
+    <url>/2020/10/21/NewJavaLearning/</url>
+    <content><![CDATA[<h1 id="Week1"><a href="#Week1" class="headerlink" title="Week1"></a>Week1</h1><h2 id="java变量变常量"><a href="#java变量变常量" class="headerlink" title="java变量变常量"></a>java变量变常量</h2><h3 id="在变量前加final"><a href="#在变量前加final" class="headerlink" title="在变量前加final"></a>在变量前加final</h3><h2 id="println-和-print区别"><a href="#println-和-print区别" class="headerlink" title="println 和 print区别"></a>println 和 print区别</h2><h3 id="println后面需要加回车才可以进行下一步；print直接输出，不需要加回车"><a href="#println后面需要加回车才可以进行下一步；print直接输出，不需要加回车" class="headerlink" title="println后面需要加回车才可以进行下一步；print直接输出，不需要加回车"></a>println后面需要加回车才可以进行下一步；print直接输出，不需要加回车</h3><h2 id="强制类型转换"><a href="#强制类型转换" class="headerlink" title="强制类型转换"></a>强制类型转换</h2><h3 id="int-x"><a href="#int-x" class="headerlink" title="(int)x"></a>(int)x</h3><a id="more"></a>
+
+<h1 id="Week3"><a href="#Week3" class="headerlink" title="Week3"></a>Week3</h1><h2 id="验证规则"><a href="#验证规则" class="headerlink" title="验证规则"></a>验证规则</h2><h3 id="测试常用边界数据"><a href="#测试常用边界数据" class="headerlink" title="测试常用边界数据"></a>测试常用边界数据</h3><ul>
+<li>个位数</li>
+<li>10</li>
+<li>0</li>
+<li>负数</li>
+</ul>
+<h1 id="Week4"><a href="#Week4" class="headerlink" title="Week4"></a>Week4</h1><h2 id="标号"><a href="#标号" class="headerlink" title="标号"></a>标号</h2><ul>
+<li>在循环前可以放一个label：来标示循环</li>
+<li>可以用于跳出多重循环</li>
+</ul>
+<h1 id="Week-5"><a href="#Week-5" class="headerlink" title="Week 5"></a>Week 5</h1><h2 id="普通变量和数组变量"><a href="#普通变量和数组变量" class="headerlink" title="普通变量和数组变量"></a>普通变量和数组变量</h2><ul>
+<li><p>普通数组是所有者</p>
+</li>
+<li><p>数组变量是管理者</p>
+<center>
+    <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/NewJavaLearning/5.1普通变量和数组变量1.png">
+    <center>5.1 Java数组变量原理</center>
+</center>
+
+<center>
+    <img src="https://raw.githubusercontent.com/juedoujiang/PictureBed/main/NewJavaLearning/5.2普通变量和数组变量2.png">
+    <center>5.2 Java数组变量原理2</center>
+</center>
+
+
+
+</li>
+</ul>
+<h2 id="数组变量"><a href="#数组变量" class="headerlink" title="数组变量"></a>数组变量</h2><ul>
+<li><p>数组变量是数组的管理者而非数组本身</p>
+</li>
+<li><p>数组必须创建出来然后交给数组变量来管理</p>
+</li>
+<li><p>数组变量之间的赋值是管理权限的赋予</p>
+</li>
+<li><p>数组变量之间的比较是判断是否管理同一个数组</p>
+</li>
+</ul>
+<h2 id="复制数组"><a href="#复制数组" class="headerlink" title="复制数组"></a>复制数组</h2><ul>
+<li><p>必须遍历源数组将每个元素逐一拷贝给目的数组</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">int</span>[] a = &#123;<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>,<span class="number">4</span>,<span class="number">5</span>&#125;;</span><br><span class="line"><span class="keyword">int</span>[] b = <span class="keyword">new</span> <span class="keyword">int</span>[a.length];</span><br><span class="line"><span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;b.length;i++)</span><br><span class="line">&#123;</span><br><span class="line">	b[i] = a[i];</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+</li>
+</ul>
+<h2 id="For-Each循环"><a href="#For-Each循环" class="headerlink" title="For-Each循环"></a>For-Each循环</h2><ul>
+<li><p>For-Each循环的形式</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> (k:data)</span><br><span class="line">&#123;</span><br><span class="line">	<span class="comment">//遍历data中的每一个数据</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ul>
+<h2 id="构造素数表"><a href="#构造素数表" class="headerlink" title="构造素数表"></a>构造素数表</h2><ul>
+<li>欲构造n以内的素数表</li>
+<li>1.令x为2</li>
+<li>2.将2x、3x、4x直至ax&lt;n的数标记为非素数</li>
+<li>3.令x为下一个没有被标记为非素数的数，重复2；直到所有的数都已经尝试完毕</li>
+</ul>
+<h1 id="Week6"><a href="#Week6" class="headerlink" title="Week6"></a>Week6</h1><h2 id="包裹类型"><a href="#包裹类型" class="headerlink" title="包裹类型"></a>包裹类型</h2><table>
+<thead>
+<tr>
+<th align="center">基础类型</th>
+<th align="center">包裹类型</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">boolean</td>
+<td align="center">Boolean</td>
+</tr>
+<tr>
+<td align="center">char</td>
+<td align="center">Character</td>
+</tr>
+<tr>
+<td align="center">int</td>
+<td align="center">Integer</td>
+</tr>
+<tr>
+<td align="center">double</td>
+<td align="center">Double</td>
+</tr>
+</tbody></table>
+<h2 id="字符串"><a href="#字符串" class="headerlink" title="字符串"></a>字符串</h2><ul>
+<li><p>String使用<code>.equals</code>进行比较</p>
+<figure class="highlight java"><table><tr><td class="code"><pre><span class="line">in.next();<span class="comment">//读入单词</span></span><br><span class="line">in.nextLine();<span class="comment">//读入字符串</span></span><br></pre></td></tr></table></figure>
+
+
+
+</li>
+</ul>
+<h2 id="字符串比较"><a href="#字符串比较" class="headerlink" title="字符串比较"></a>字符串比较</h2><ul>
+<li>字符串是对象，对它的所有操作是通过<code>.</code>运算符进行的</li>
+<li>字符串大小的比较<code>str1.compareTo(str2)</code>、<code>str1.compareToIgnoreCase(str2)</code></li>
+<li>字符串长度大小<code>str.length()</code></li>
+<li>访问String里的字符<code>str1.charAt(Index)</code></li>
+<li>字符串子串<code>str.substring(n)</code>or<code>str.substring(b,e)//不包括第e个</code></li>
+<li>寻找某个字符串是否存在</li>
+<li><code>s.indexOf(c)\s.indexOf(c,n)\s.indexOf(s)\s.lastIndexOf(c)\s.lastIndexOf(c)</code></li>
+<li>其他String操作<ul>
+<li><code>s.startsWith(t)</code></li>
+<li><code>s.endsWith(t)</code></li>
+<li><code>s.trim()</code></li>
+<li><code>s.replace(c1,c2)</code></li>
+<li><code>s.toLowerCase()</code></li>
+<li><code>s.toUpperCase()</code></li>
+</ul>
+</li>
+</ul>
+<h1 id="Week7"><a href="#Week7" class="headerlink" title="Week7"></a>Week7</h1><h2 id="函数-初-定义"><a href="#函数-初-定义" class="headerlink" title="函数(初)定义"></a>函数(初)定义</h2><ul>
+<li><p>函数的定义</p>
+<center>
+    <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/NewJavaLearning/7.1函数(初)定义.png">
+    <center>7.1 函数(初)定义</center>
+</center>
+
+
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Java Learning Notes</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>OOP_Java</title>
+    <url>/2020/10/28/OOP_Java/</url>
+    <content><![CDATA[<h1 id="Week1"><a href="#Week1" class="headerlink" title="Week1"></a>Week1</h1><h2 id="构造函数"><a href="#构造函数" class="headerlink" title="构造函数"></a>构造函数</h2><ul>
+<li>在构造类时会被自动调用的一类函数</li>
+<li>在构造时先去构造函数外部进行初始化，之后执行构造函数</li>
+<li>可以有多个构造函数，应对不同情况</li>
+</ul>
+<a id="more"></a>
+
+<h2 id="函数重载"><a href="#函数重载" class="headerlink" title="函数重载"></a>函数重载</h2><center>
+    <img src = "https://raw.githubusercontent.com/juedoujiang/PictureBed/main/OOP_JavaPic/1.1函数重载.png">
+    <center>1 函数重载</center>
+</center>
+
+
+]]></content>
+      <categories>
+        <category>Java Learning Notes</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python_Module_1</title>
+    <url>/2020/11/19/Python_Module_1/</url>
+    <content><![CDATA[<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> os</span><br></pre></td></tr></table></figure>
+
+<a id="more"></a>
+
+<h1 id="1-os创建目录"><a href="#1-os创建目录" class="headerlink" title="1  os创建目录"></a>1  os创建目录</h1><h3 id="os-mkdir-path"><a href="#os-mkdir-path" class="headerlink" title="os.mkdir(path)"></a><code>os.mkdir(path)</code></h3><p>这种情况下，上级目录必须存在，最后一个目录不存在则会自动创建。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">path = <span class="string">&quot;mkdir&quot;</span></span><br><span class="line"><span class="keyword">if</span> <span class="keyword">not</span> os.path.exists(path):<span class="comment">#判断目录路径是否存在</span></span><br><span class="line">    os.mkdir(path)</span><br></pre></td></tr></table></figure>
+
+<h3 id="os-makedirs-path"><a href="#os-makedirs-path" class="headerlink" title="os.makedirs(path)"></a><code>os.makedirs(path)</code></h3><p>这种情况下，只要目录路径下有不存在的目录，就会创建该目录，然后递归的创建文件目录。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">path = <span class="string">&quot;blankfolder&quot;</span></span><br><span class="line"><span class="keyword">if</span> <span class="keyword">not</span> os.path.exists(path):</span><br><span class="line">    os.makedirs(path)</span><br></pre></td></tr></table></figure>
+
+<h3 id="os批量创建n个指定目录"><a href="#os批量创建n个指定目录" class="headerlink" title="os批量创建n个指定目录"></a>os批量创建n个指定目录</h3><p>文件名称中只带一个数字</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">path = <span class="string">&quot;blankfolder/folder_&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">100</span>):</span><br><span class="line">    isExists = os.path.exists(path+<span class="built_in">str</span>(i+<span class="number">1</span>))</span><br><span class="line">    <span class="keyword">if</span> <span class="keyword">not</span> isExists:</span><br><span class="line">        os.makedirs(path+<span class="built_in">str</span>(i+<span class="number">1</span>))</span><br><span class="line"><span class="comment">#        print(&quot;%s 目录创建成功&quot;%(i+1))</span></span><br><span class="line">    <span class="keyword">else</span>:</span><br><span class="line"><span class="comment">#        print(&quot;%s 目录已经存在&quot;%(i+1))</span></span><br><span class="line">        <span class="keyword">continue</span></span><br></pre></td></tr></table></figure>
+
+<p>文件名称中带多个数字</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">path = <span class="string">&quot;PreData/Bearing&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">3</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">        end_path = path + <span class="built_in">str</span>(i+<span class="number">1</span>) + <span class="string">&quot;_&quot;</span> + <span class="built_in">str</span>(j+<span class="number">1</span>)</span><br><span class="line">        isExists = os.path.exists(end_path)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">not</span> isExists:</span><br><span class="line">            os.makedirs(end_path)</span><br><span class="line">        <span class="keyword">else</span>:</span><br><span class="line">            <span class="keyword">continue</span></span><br></pre></td></tr></table></figure>
+
+<p>文件有多个上级目录</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">Path_List = [<span class="string">&#x27;35Hz12kN&#x27;</span>,<span class="string">&#x27;37.5Hz11kN&#x27;</span>,<span class="string">&#x27;40Hz10kN&#x27;</span>]</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">3</span>):</span><br><span class="line">    path = <span class="string">&#x27;PreData&#x27;</span> + <span class="string">&#x27;/&#x27;</span> + Path_List[i]</span><br><span class="line"><span class="comment">#    print(path)</span></span><br><span class="line">    isExists = os.path.exists(path)</span><br><span class="line">    <span class="keyword">if</span> <span class="keyword">not</span> isExists:</span><br><span class="line">        os.makedirs(path)</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">        end_path = path + <span class="string">&#x27;/&#x27;</span> + <span class="string">&#x27;Bearing&#x27;</span> + <span class="built_in">str</span>(i+<span class="number">1</span>) + <span class="string">&#x27;_&#x27;</span> + <span class="built_in">str</span>(j+<span class="number">1</span>)</span><br><span class="line"><span class="comment">#        print(end_path)</span></span><br><span class="line">        isExists = os.path.exists(end_path)</span><br><span class="line">        <span class="keyword">if</span> <span class="keyword">not</span> isExists:</span><br><span class="line">            os.makedirs(end_path)</span><br><span class="line">        <span class="keyword">else</span>:</span><br><span class="line">            <span class="keyword">continue</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="2-os-listdir-path"><a href="#2-os-listdir-path" class="headerlink" title="2  os.listdir(path)"></a>2  <code>os.listdir(path)</code></h1><p>返回一个列表，其中包含由<code>path</code>给出的目录中条目的名称。该列表按任意顺序排列，并且不包含特殊条目’.’ 和’..’，即使它们存在于目录中。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">path = <span class="string">&quot;blankfolder&quot;</span></span><br><span class="line">dirs = os.listdir(path)</span><br><span class="line"><span class="comment">#for folder in dirs:#输出所有文件文件和文件夹</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="3-目录下文件的排序—list排序"><a href="#3-目录下文件的排序—list排序" class="headerlink" title="3  目录下文件的排序—list排序"></a>3  目录下文件的排序—list排序</h1><p><code>sort(*,key=None,reverse=False)</code><br><em>key</em> 指定一个带有参数的函数，用于从每个列表元素中提取比较键，默认值<code>None</code>表示直接对列表项排序不计算一个单独的键值； <em>reverse</em> 若为<code>True</code>，则反向排序  </p>
+<p><em>key</em> 函数可通过<code>lamdba</code>表达式来创建， <strong>list</strong> 会根据表达式的<code>expression</code>进行排序</p>
+<h3 id="按照文件中数字大小进行排序"><a href="#按照文件中数字大小进行排序" class="headerlink" title="按照文件中数字大小进行排序"></a>按照文件中数字大小进行排序</h3><p><code>str.split(sep=None,maxsplit=-1)</code><br>返回字符串内单词组成的列表，使用 <em>sep</em> 作为分割字符串，若 <em>sep</em> 为<code>None</code>则按照空格进行拆分。若给出 <em>maxsplit</em> ,则最多进行 <em>maxsplit</em> 次拆分</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dirs.sort(key=<span class="keyword">lambda</span> x:<span class="built_in">int</span>(x.split(<span class="string">&#x27;_&#x27;</span>)[<span class="number">1</span>]))</span><br><span class="line"><span class="comment">#for folder in dirs:</span></span><br><span class="line"><span class="comment">#    print(type(int(folder.split(&#x27;_&#x27;)[1])))</span></span><br><span class="line"><span class="comment">#    print(folder.split(&#x27;_&#x27;)[1])</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="按文件名称字符串小写排序"><a href="#按文件名称字符串小写排序" class="headerlink" title="按文件名称字符串小写排序"></a>按文件名称字符串小写排序</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dirs.sort(key=<span class="keyword">lambda</span> x:x.lower())</span><br><span class="line"><span class="comment">#for folder in dirs:</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="按创建时间精确到秒排序"><a href="#按创建时间精确到秒排序" class="headerlink" title="按创建时间精确到秒排序"></a>按创建时间精确到秒排序</h3><ul>
+<li><code>os.path.getatime(path)</code>:返回<code>path</code>的最后访问时间</li>
+<li><code>os.path.getmtime(path)</code>:返回<code>path</code>的最后修改时间</li>
+<li><code>os.path.getctime(path)</code>:返回<code>path</code>在系统中的ctime，Windows中，为<code>path</code>的创建时间</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dirs.sort(key=<span class="keyword">lambda</span> x:os.path.getatime(os.path.join(path,x)))</span><br><span class="line"><span class="comment">#print(os.path.join(path,&quot;folder_1&quot;))</span></span><br><span class="line"><span class="comment">#for folder in dirs:</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+
+
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dirs.sort(key=<span class="keyword">lambda</span> x:os.path.getmtime(os.path.join(path,x)))</span><br><span class="line"><span class="comment">#for folder in dirs:</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+
+
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dirs.sort(key=<span class="keyword">lambda</span> x:os.path.getctime(os.path.join(path,x)))</span><br><span class="line"><span class="comment">#for folder in dirs:</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="按创建时间精确到纳秒排序"><a href="#按创建时间精确到纳秒排序" class="headerlink" title="按创建时间精确到纳秒排序"></a>按创建时间精确到纳秒排序</h3><p>使用<code>os.stat(path)</code>的返回值<code>statinfo</code>的三个属性获取文件的创建时间等信息  </p>
+<ul>
+<li><code>st_atime_ns</code>:返回<code>statinfo</code>的最后访问时间(纳秒)</li>
+<li><code>st_mtime_ns</code>:返回<code>statinfo</code>的最后修改时间(纳秒)</li>
+<li><code>st_ctime_ns</code>:返回<code>statinfo</code>在系统中的ctime，Windows中，为<code>path</code>的创建时间(纳秒)</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">dirs.sort(key=<span class="keyword">lambda</span> x:os.stat(os.path.join(path,x)).st_ctime_ns)</span><br><span class="line"><span class="comment">#for folder in dirs:</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+
+<p>**注:**在使用<code>os.path.getctime(path)</code>,<code>os.path.getmtime(path)</code>,<code>os.path.getatime(path)</code>或<code>os.stat(path)</code>时所用路径必须为相对路径全称，故需要用<code>os.path.join(path,*paths)</code>来拼接路径  </p>
+<h3 id="按文件名称中某几位特定的键值进行排序"><a href="#按文件名称中某几位特定的键值进行排序" class="headerlink" title="按文件名称中某几位特定的键值进行排序"></a>按文件名称中某几位特定的键值进行排序</h3><figure class="highlight python"><table><tr><td class="code"><pre><span class="line">i = <span class="number">4</span></span><br><span class="line">dirs.sort(key=<span class="keyword">lambda</span> x:x[:-i])</span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">for folder in dirs:</span></span><br><span class="line"><span class="string">    print(folder[:-i])</span></span><br><span class="line"><span class="string">    print(type(folder[:-i]))</span></span><br><span class="line"><span class="string">    print(folder)</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br></pre></td></tr></table></figure>
+
+
+
+
+<pre><code>&#39;for folder in dirs:\n    print(folder[:-i])\n    print(type(folder[:-i]))\n    print(folder)&#39;</code></pre>
+<h3 id="引入re按照文件名称排序"><a href="#引入re按照文件名称排序" class="headerlink" title="引入re按照文件名称排序"></a>引入<code>re</code>按照文件名称排序</h3><ul>
+<li><p><code>re.compile(pattern,flags=0)</code>  </p>
+<p>将正则表达式的样式编译为一个正则表达式对象（正则对象），可以用于匹配<br>序列  </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">prog &#x3D; re.compile(pattern)</span><br><span class="line">result &#x3D; prog.match(string)</span><br></pre></td></tr></table></figure>
+<p>等价于</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">result &#x3D; re.match(pattern, string)</span><br></pre></td></tr></table></figure>
+<p>如果需要多次使用这个正则表达式 <em>pattern</em> 话，使用<code>re.compile()</code>和保存这个这个正则对象以便复用，可以让程序更加高效</p>
+</li>
+<li><p><code>re.split(pattern,string,maxsplit=0,flags=0)</code>  </p>
+</li>
+</ul>
+<p>用 <em>pattern</em> 分开 <em>string</em> 。 如果在 <em>pattern</em> 中捕获到括号，那么所有的组里的文字也会包含在列表里。如果 <em>maxsplit</em> 非零， 最多进行 <em>maxsplit</em> 次分隔， 剩下的字符全部返回到列表的最后一个元素。  </p>
+<ul>
+<li><p><code>pattern = r&#39;(\d+)</code>  </p>
+<ul>
+<li><code>+</code><ul>
+<li>对它前面的正则式匹配1到任意次重复。 <code>ab+</code> 会匹配 <code>&#39;a&#39;</code> 后面跟随1个以上到任意个 <code>&#39;b&#39;</code>，它不会匹配 <code>&#39;a&#39;</code>。</li>
+</ul>
+</li>
+<li><code>\d</code><ul>
+<li>对于 Unicode (str) 样式：匹配任何Unicode十进制数（就是在Unicode字符目录<code>[Nd]</code>里的字符）。这包括了<code>[0-9]</code>，和很多其他的数字字符。如果设置了ASCII标志，就只匹配<code>[0-9]</code>。</li>
+<li>对于8位(bytes)样式：<br>匹配任何十进制数，就是<code>[0-9]</code>。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><code>s[i:j:k]</code></p>
+</li>
+</ul>
+<p>s从i到j步长为k的切片</p>
+<ul>
+<li><code>map(function, iterable,...)</code></li>
+</ul>
+<p>对每个iterable进行function运算，可以使用lambda匿名函数</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> re</span><br><span class="line"><span class="comment">#自定义sort_key函数</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">sort_key</span>(<span class="params">s</span>):</span></span><br><span class="line">    <span class="comment">#sort_strings_with_embedded_numbers</span></span><br><span class="line">    re_digits = re.<span class="built_in">compile</span>(<span class="string">r&#x27;(\d+)&#x27;</span>)</span><br><span class="line">    pieces = re_digits.split(s)  <span class="comment"># 切成数字与非数字</span></span><br><span class="line"><span class="comment">#    print(pieces)</span></span><br><span class="line"><span class="comment">#    print(pieces[1::2])</span></span><br><span class="line">    pieces[<span class="number">1</span>::<span class="number">2</span>] = <span class="built_in">map</span>(<span class="built_in">int</span>, pieces[<span class="number">1</span>::<span class="number">2</span>])  <span class="comment"># 将数字部分转成整数</span></span><br><span class="line">    <span class="keyword">return</span> pieces</span><br></pre></td></tr></table></figure>
+
+
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">path = <span class="string">&quot;PreData&quot;</span></span><br><span class="line">dirss = os.listdir(path)</span><br><span class="line">dirss.sort(key=sort_key)</span><br><span class="line"><span class="comment">#for folder in dirss:</span></span><br><span class="line"><span class="comment">#    print(folder)</span></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Python Module</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+</search>

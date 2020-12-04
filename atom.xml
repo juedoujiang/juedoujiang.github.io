@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jiang&#39;Blog</title>
+  
+  <subtitle>A Learning Room</subtitle>
+  <link href="https://juedoujiang.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://juedoujiang.github.io/"/>
+  <updated>2020-11-20T02:17:36.363Z</updated>
+  <id>https://juedoujiang.github.io/</id>
+  
+  <author>
+    <name>Juedoujiang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python_Module_1</title>
+    <link href="https://juedoujiang.github.io/2020/11/19/Python_Module_1/"/>
+    <id>https://juedoujiang.github.io/2020/11/19/Python_Module_1/</id>
+    <published>2020-11-19T14:08:06.752Z</published>
+    <updated>2020-11-20T02:17:36.363Z</updated>
+    
+    
+    <summary type="html">&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;import&lt;/span&gt; os&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="Python Module" scheme="https://juedoujiang.github.io/categories/Python-Module/"/>
+    
+    
+    <category term="Python" scheme="https://juedoujiang.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>KerasSetup</title>
+    <link href="https://juedoujiang.github.io/2020/11/03/KerasSetup/"/>
+    <id>https://juedoujiang.github.io/2020/11/03/KerasSetup/</id>
+    <published>2020-11-03T13:55:32.000Z</published>
+    <updated>2020-11-05T02:26:29.804Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;1-安装Keras对应版本的Tensorflow&quot;&gt;&lt;a href=&quot;#1-安装Keras对应版本的Tensorflow&quot; class=&quot;headerlink&quot; title=&quot;1.安装Keras对应版本的Tensorflow&quot;&gt;&lt;/a&gt;1.安装Keras对应版本的Tensorflow&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="EnvSetup" scheme="https://juedoujiang.github.io/categories/EnvSetup/"/>
+    
+    
+    <category term="python Keras" scheme="https://juedoujiang.github.io/tags/python-Keras/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OOP_Java</title>
+    <link href="https://juedoujiang.github.io/2020/10/28/OOP_Java/"/>
+    <id>https://juedoujiang.github.io/2020/10/28/OOP_Java/</id>
+    <published>2020-10-28T03:49:03.569Z</published>
+    <updated>2020-10-28T08:21:19.685Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Week1&quot;&gt;&lt;a href=&quot;#Week1&quot; class=&quot;headerlink&quot; title=&quot;Week1&quot;&gt;&lt;/a&gt;Week1&lt;/h1&gt;&lt;h2 id=&quot;构造函数&quot;&gt;&lt;a href=&quot;#构造函数&quot; class=&quot;headerlink&quot; title=&quot;构造函数&quot;&gt;&lt;/a&gt;构造函数&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在构造类时会被自动调用的一类函数&lt;/li&gt;
+&lt;li&gt;在构造时先去构造函数外部进行初始化，之后执行构造函数&lt;/li&gt;
+&lt;li&gt;可以有多个构造函数，应对不同情况&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Java Learning Notes" scheme="https://juedoujiang.github.io/categories/Java-Learning-Notes/"/>
+    
+    
+    <category term="Java" scheme="https://juedoujiang.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>New Java Learning</title>
+    <link href="https://juedoujiang.github.io/2020/10/21/NewJavaLearning/"/>
+    <id>https://juedoujiang.github.io/2020/10/21/NewJavaLearning/</id>
+    <published>2020-10-21T03:03:14.339Z</published>
+    <updated>2020-10-28T08:20:54.251Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Week1&quot;&gt;&lt;a href=&quot;#Week1&quot; class=&quot;headerlink&quot; title=&quot;Week1&quot;&gt;&lt;/a&gt;Week1&lt;/h1&gt;&lt;h2 id=&quot;java变量变常量&quot;&gt;&lt;a href=&quot;#java变量变常量&quot; class=&quot;headerlink&quot; title=&quot;java变量变常量&quot;&gt;&lt;/a&gt;java变量变常量&lt;/h2&gt;&lt;h3 id=&quot;在变量前加final&quot;&gt;&lt;a href=&quot;#在变量前加final&quot; class=&quot;headerlink&quot; title=&quot;在变量前加final&quot;&gt;&lt;/a&gt;在变量前加final&lt;/h3&gt;&lt;h2 id=&quot;println-和-print区别&quot;&gt;&lt;a href=&quot;#println-和-print区别&quot; class=&quot;headerlink&quot; title=&quot;println 和 print区别&quot;&gt;&lt;/a&gt;println 和 print区别&lt;/h2&gt;&lt;h3 id=&quot;println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&quot;&gt;&lt;a href=&quot;#println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&quot; class=&quot;headerlink&quot; title=&quot;println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&quot;&gt;&lt;/a&gt;println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&lt;/h3&gt;&lt;h2 id=&quot;强制类型转换&quot;&gt;&lt;a href=&quot;#强制类型转换&quot; class=&quot;headerlink&quot; title=&quot;强制类型转换&quot;&gt;&lt;/a&gt;强制类型转换&lt;/h2&gt;&lt;h3 id=&quot;int-x&quot;&gt;&lt;a href=&quot;#int-x&quot; class=&quot;headerlink&quot; title=&quot;(int)x&quot;&gt;&lt;/a&gt;(int)x&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="Java Learning Notes" scheme="https://juedoujiang.github.io/categories/Java-Learning-Notes/"/>
+    
+    
+    <category term="Java" scheme="https://juedoujiang.github.io/tags/Java/"/>
+    
+  </entry>
+  
+</feed>
