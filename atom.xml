@@ -82,7 +82,7 @@
     <link href="https://juedoujiang.github.io/2020/10/21/NewJavaLearning/"/>
     <id>https://juedoujiang.github.io/2020/10/21/NewJavaLearning/</id>
     <published>2020-10-21T03:03:14.339Z</published>
-    <updated>2020-10-28T08:20:54.251Z</updated>
+    <updated>2020-12-07T08:57:52.165Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;Week1&quot;&gt;&lt;a href=&quot;#Week1&quot; class=&quot;headerlink&quot; title=&quot;Week1&quot;&gt;&lt;/a&gt;Week1&lt;/h1&gt;&lt;h2 id=&quot;java变量变常量&quot;&gt;&lt;a href=&quot;#java变量变常量&quot; class=&quot;headerlink&quot; title=&quot;java变量变常量&quot;&gt;&lt;/a&gt;java变量变常量&lt;/h2&gt;&lt;h3 id=&quot;在变量前加final&quot;&gt;&lt;a href=&quot;#在变量前加final&quot; class=&quot;headerlink&quot; title=&quot;在变量前加final&quot;&gt;&lt;/a&gt;在变量前加final&lt;/h3&gt;&lt;h2 id=&quot;println-和-print区别&quot;&gt;&lt;a href=&quot;#println-和-print区别&quot; class=&quot;headerlink&quot; title=&quot;println 和 print区别&quot;&gt;&lt;/a&gt;println 和 print区别&lt;/h2&gt;&lt;h3 id=&quot;println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&quot;&gt;&lt;a href=&quot;#println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&quot; class=&quot;headerlink&quot; title=&quot;println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&quot;&gt;&lt;/a&gt;println后面需要加回车才可以进行下一步；print直接输出，不需要加回车&lt;/h3&gt;&lt;h2 id=&quot;强制类型转换&quot;&gt;&lt;a href=&quot;#强制类型转换&quot; class=&quot;headerlink&quot; title=&quot;强制类型转换&quot;&gt;&lt;/a&gt;强制类型转换&lt;/h2&gt;&lt;h3 id=&quot;int-x&quot;&gt;&lt;a href=&quot;#int-x&quot; class=&quot;headerlink&quot; title=&quot;(int)x&quot;&gt;&lt;/a&gt;(int)x&lt;/h3&gt;</summary>
